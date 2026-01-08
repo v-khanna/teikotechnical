@@ -41,7 +41,10 @@ streamlit run dashboard/app.py
 
 **Live Dashboard:** [https://teikotechnical.streamlit.app](https://teikotechnical.streamlit.app)
 
+<<<<<<< Current (Your changes)
 
+=======
+>>>>>>> Incoming (Background Agent changes)
 ## Project Structure
 
 ```
