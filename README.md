@@ -12,7 +12,7 @@ Analysis pipeline for clinical trial immune cell population data, examining how 
 
 ```bash
 # Clone the repository
-git clone https://github.com/[username]/teikotechnical.git
+git clone https://github.com/v-khanna/teikotechnical.git
 cd teikotechnical
 
 # Install dependencies
@@ -41,7 +41,6 @@ streamlit run dashboard/app.py
 
 **Live Dashboard:** [https://teikotechnical.streamlit.app](https://teikotechnical.streamlit.app)
 
-*Note: Replace with actual deployed URL*
 
 ## Project Structure
 
