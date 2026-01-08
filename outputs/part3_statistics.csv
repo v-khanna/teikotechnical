@@ -1,0 +1,6 @@
+population,responder_mean,responder_std,responder_median,responder_n,non_responder_mean,non_responder_std,non_responder_median,non_responder_n,test_used,statistic,p_value,adjusted_p_value,effect_size,significant
+b_cell,9.8,3.32,9.43,993,10.0,3.12,9.79,975,Mann-Whitney U,459971.0,0.055702309738266245,0.2785115486913312,0.0498,No
+cd8_t_cell,24.88,4.91,24.73,993,24.94,4.42,24.6,975,Mann-Whitney U,478176.0,0.6390858847346418,1.0,0.0122,No
+cd4_t_cell,30.54,5.2,30.22,993,29.9,4.82,29.66,975,Mann-Whitney U,515276.0,0.013344218813937624,0.06672109406968812,-0.0644,No
+nk_cell,14.84,4.13,14.51,993,15.07,3.77,14.8,975,Mann-Whitney U,464546.0,0.1210507982042857,0.6052539910214285,0.0404,No
+monocyte,19.94,4.64,19.61,993,20.08,4.01,19.94,975,Mann-Whitney U,466510.0,0.16315013268752876,0.8157506634376438,0.0363,No

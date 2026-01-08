@@ -1,0 +1,18 @@
+Melanoma PBMC Baseline Analysis (Miraclib Treatment)
+=======================================================
+
+Total samples matching criteria: 656
+Total unique subjects: 656
+
+4a. Samples per project:
+  - prj1: 384 samples
+  - prj2: 0 samples (no data matching criteria)
+  - prj3: 272 samples
+
+4b. Subject response distribution:
+  - Responders: 331 subjects (50.5%)
+  - Non-responders: 325 subjects (49.5%)
+
+4c. Subject sex distribution:
+  - Males: 344 subjects (52.4%)
+  - Females: 312 subjects (47.6%)
