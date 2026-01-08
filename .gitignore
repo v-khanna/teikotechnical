@@ -27,3 +27,10 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 
+# Interview prep files (keep local only)
+START_HERE.md
+REVIEW_SUMMARY.md
+INTERVIEW_PREP.md
+TECHNICAL_REVIEW.md
+ARCHITECTURE_OVERVIEW.md
+
